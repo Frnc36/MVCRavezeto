@@ -1,5 +1,7 @@
 package app;
 
+import Modell.Filmek;
+import Nezet.KonzolNezet;
 import java.util.ArrayList;
 import java.util.List;
 

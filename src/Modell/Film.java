@@ -1,4 +1,4 @@
-package app;
+package Modell;
 /* Ez a Model */
 public class Film {
 

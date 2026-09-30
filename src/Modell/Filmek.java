@@ -1,5 +1,6 @@
-package app;
+package Modell;
 
+import Modell.Film;
 import java.util.ArrayList;
 import java.util.Collection;
 import java.util.Collections;
